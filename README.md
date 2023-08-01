@@ -1,9 +1,8 @@
  Sobre mim
 
 
-- 👋 Olá me chamo XXXXXXXXX, sou aluno da rede Estadual do Paraná.
-- 👀 Estou interessado em aprender novas linguagens de programação e aprimorar o conhecimento na área.
-- 🌱 Atualmente estou cursando
+- 👋 Olá me chamo Heloise Caroline, sou aluno da rede Estadual do Paraná.
+Tenho 16 anos estudo no Colegio Celia Morais de oliveira estou cursando o novo encinoi medédio 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
